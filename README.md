@@ -1,39 +1,24 @@
-# webColloqouy
+# README
 
-{
-INDEX PAGE
--"view only" (guest)
--log in at the top
--register "button"
--can open the posted discussion but can't comment or upvote
--the discussion is sorted depends on the upvote or comment and if the admin create the discussion
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-ADMIN INDEX PAGE
--admin can edit/destroy the discussion
+Things you may want to cover:
 
-USER INDEX PAGE
--user can create/post/edit their own discussion.
--can reply/comment to other discussion
-}
+* Ruby version
 
-DISCUSSION PAGE
--can see all other information about the discussion
--comment bar
--can see the comments
+* System dependencies
 
-ADD NEW DISCUSSION (topic_name:string topic_discription:string)
--user and admin can only make new discussion
--Validations; if the post has a "necessary post"
+* Configuration
 
-LIST OF USER PAGE
--user can see all other user but admin can only "destroy" a profile
+* Database creation
 
-USER ACCOUNT PAGE
--user can change new password.
+* Database initialization
 
-REGISTER PAGE(email:string username:string age:integer department:string college:string password:string retypepw:string)
--register page
--all fields are required
+* How to run the test suite
 
-RULES AND REGULATION PAGE
--list of all rules and regulation
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
